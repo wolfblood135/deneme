@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T13:26:55.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="a7K6BB8xb-_OuDAL1x-1" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-12T13:29:05.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="1aiaZYUC1LoPSvuK4eTr" version="17.4.2" type="github">
   <diagram id="H8Bx3RlxzMPk_otEVfv0" name="Page-1">
-    <mxGraphModel dx="313" dy="190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="499" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,17 +10,32 @@
         <mxCell id="YpfmacOoZUl1ANOJPsUY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YpfmacOoZUl1ANOJPsUY-2" target="YpfmacOoZUl1ANOJPsUY-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YpfmacOoZUl1ANOJPsUY-11" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YpfmacOoZUl1ANOJPsUY-6">
+          <mxGeometry x="-0.2933" y="-1" relative="1" as="geometry">
+            <mxPoint x="2" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YpfmacOoZUl1ANOJPsUY-2" value="Yazar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YpfmacOoZUl1ANOJPsUY-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YpfmacOoZUl1ANOJPsUY-3" target="YpfmacOoZUl1ANOJPsUY-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YpfmacOoZUl1ANOJPsUY-14" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YpfmacOoZUl1ANOJPsUY-8">
+          <mxGeometry x="0.2135" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YpfmacOoZUl1ANOJPsUY-3" value="Yayın evi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YpfmacOoZUl1ANOJPsUY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YpfmacOoZUl1ANOJPsUY-5" target="YpfmacOoZUl1ANOJPsUY-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YpfmacOoZUl1ANOJPsUY-13" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YpfmacOoZUl1ANOJPsUY-7">
+          <mxGeometry x="-0.1713" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YpfmacOoZUl1ANOJPsUY-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YpfmacOoZUl1ANOJPsUY-5" target="YpfmacOoZUl1ANOJPsUY-9">
           <mxGeometry relative="1" as="geometry" />
@@ -28,8 +43,8 @@
         <mxCell id="YpfmacOoZUl1ANOJPsUY-5" value="Yayımlama&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="290" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YpfmacOoZUl1ANOJPsUY-9" value="Tarih" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="607.5" y="180" width="65" height="60" as="geometry" />
+        <mxCell id="YpfmacOoZUl1ANOJPsUY-9" value="Yayın tarihi" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="608.75" y="180" width="62.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
