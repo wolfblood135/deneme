@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T08:58:50.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="TrTgOska8WXjGJy9wCJa" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T08:59:48.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="U0M3iVqog9YSt9RnKblc" version="17.4.3" type="github">
   <diagram id="ImzDiK4eDHVWhFc2iFrQ" name="Page-1">
     <mxGraphModel dx="1673" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="EsimJJAvfPBojJWUDcx3-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;targetPerimeterSpacing=4;sourcePerimeterSpacing=3;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="520" as="sourcePoint" />
-            <mxPoint x="440" y="340" as="targetPoint" />
+            <mxPoint x="440" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EsimJJAvfPBojJWUDcx3-5" value="2. Aşama" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;" vertex="1" parent="1">
@@ -54,7 +54,7 @@
         </mxCell>
         <mxCell id="EsimJJAvfPBojJWUDcx3-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;targetPerimeterSpacing=4;sourcePerimeterSpacing=3;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="330" as="sourcePoint" />
             <mxPoint x="440" y="145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
